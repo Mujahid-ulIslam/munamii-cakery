@@ -101,9 +101,9 @@ This project helped strengthen my understanding of:
 
 ### Homepage
 
-```markdown
+
 ![Homepage](screenshots/homepage.png)
-```
+
 
 ### Products Page
 
