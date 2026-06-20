@@ -102,7 +102,7 @@ This project helped strengthen my understanding of:
 ### Homepage
 
 
-![Homepage](screenshots/homepage.png)
+![Homepage](images/screenshots/homepage.png)
 
 
 ### Products Page
