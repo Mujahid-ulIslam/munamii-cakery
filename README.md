@@ -107,21 +107,19 @@ This project helped strengthen my understanding of:
 
 ### Products Page
 
-```markdown
-![Products Page](screenshots/products.png)
-```
+![Products Page](images/screenshots/products.png)
+
 
 ### About Page
 
-```markdown
-![About Page](screenshots/about.png)
-```
+![About Page](images/screenshots/about.png)
+
 
 ### Contact Page
 
-```markdown
-![Contact Page](screenshots/contact.png)
-```
+
+![Contact Page](images/screenshots/contact.png)
+
 
 ---
 
